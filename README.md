@@ -1,6 +1,6 @@
-# Getting and Cleaning Data Project
+## Getting and Cleaning Data Project
 
-## title| "CodeBook"
+# CodeBook
 
 | Variable        | Defination                              |
 | --------------- | --------------------------------------- |
