@@ -1,4 +1,6 @@
 
+=======
+
 ##Getting and Cleaning Data
 
 ### Instructions 
@@ -17,4 +19,7 @@ You should create one R script called run_analysis.R that does the following.
 3. Then set the the parent directory of  <code>UCI HAR Dataset </code> as your working directory using  <code>setwd() </code> function R.
 4. Run  <code>source("run_analysis.R </code>"), then it will generate a new file  <code>tiny_data.txt </code> in your working directory.
 
+<<<<<<< HEAD
  <code>run_analysis.R </code> file will help you to install the dependencies automatically. It depends on  <code>reshape2 <code/> and  <code>data.table </code>.
+=======
+ <code>run_analysis.R </code> file will help you to install the dependencies automatically. It depends on  <code>reshape2<code/> and  <code>data.table</code>.

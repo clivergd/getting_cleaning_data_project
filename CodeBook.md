@@ -2,7 +2,7 @@
 
 # CodeBook
 
-| Variable        | Defination                              |
+| Variable        | Definition                              |
 | --------------- | --------------------------------------- |
 | features        | UCI HAR Dataset/features.txt            |
 | activityType    | UCI HAR Dataset/activity_labels.txt     |
