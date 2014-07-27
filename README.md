@@ -4,10 +4,10 @@ Getting and Cleaning Data Project
 title: "CodeBook"
 --------------------------------------------------
 ### Variable        : Defination
--features        : UCI HAR Dataset/features.txt
--activityType    : UCI HAR Dataset/activity_labels.txt
--subjectTrain    : UCI HAR Dataset/train/subject_train.txt
-subjectTest     : UCI HAR Dataset/test/subject_test.txt
+- features        : UCI HAR Dataset/features.txt
+- activityType    : UCI HAR Dataset/activity_labels.txt
+- subjectTrain    : UCI HAR Dataset/train/subject_train.txt
+* subjectTest     : UCI HAR Dataset/test/subject_test.txt
 xTrain          : UCI HAR Dataset/train/x_train.txt
 yTrain          : UCI HAR Dataset/train/y_train.txt
 xTest           : UCI HAR Dataset/test/x_test.txt
