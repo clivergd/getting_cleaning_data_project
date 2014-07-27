@@ -3,7 +3,7 @@
 ## title| "CodeBook"
 
 | Variable        | Defination                              |
-| --------------- |:---------------------------------------:|
+| --------------- | --------------------------------------- |
 | features        | UCI HAR Dataset/features.txt            |
 | activityType    | UCI HAR Dataset/activity_labels.txt     |
 | subjectTrain    | UCI HAR Dataset/train/subject_train.txt |
